@@ -1,0 +1,8 @@
+Django>=5.2,<6
+djangorestframework>=3.16,<4
+django-cors-headers>=4.7,<5
+pymongo>=4.12,<5
+pypdf>=5,<7
+python-dotenv>=1,<2
+google-genai>=1.0,<3
+

@@ -1,0 +1,12 @@
+{
+  "name": "recalldesk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RecallDesk document research workspace",
+  "scripts": {
+    "dev": "bun dev.mjs",
+    "dev:backend": "bun dev.mjs --backend-only",
+    "dev:frontend": "bun dev.mjs --frontend-only"
+  }
+}
